@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 data-importer="text" align="left">◎ /sys/net/eth0/security/<br>└── intrusion.log<br>    ────────────────────────────────────────────────────────────────────<br> Nao existem falhas no sistema, apenas pontos de contato onde a ordem do codigo encontra a curiosidade infinita do caos<br> ────────────────────────────────────────────────────────────────────</h2>
+<h2 data-importer="text" align="left">◎ /sys/net/eth0/security/<br>└── intrusion.log<br>    ─────────────────────────────────────────────────────────<br> Nao existem falhas no sistema, apenas pontos de contato onde a ordem do codigo encontra a curiosidade infinita do caos<br> ─────────────────────────────────────────────────────────</h2>
 
 ###
 
