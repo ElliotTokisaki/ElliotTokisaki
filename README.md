@@ -4,17 +4,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ElliotTokisaki/ElliotTokisaki/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ElliotTokisaki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img data-importer="image" align="left" height="150" src="https://imgs.search.brave.com/zz5kqZQFZg3fyR12ycHmoqCdJQ6nR9Sm4qad78vDT30/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzYzLzBk/LzQ4LzYzMGQ0OGE0/NGFmMzkzZTIxNzJi/N2RhZTVkMDFlYWNm/LmpwZw"  />
-
-###
-
 <div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=grey&logoColor=black&labelColor=&style=for-the-badge" height="34" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=grey&logoColor=black&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
